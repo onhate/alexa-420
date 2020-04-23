@@ -1,0 +1,22 @@
+{
+  "pt": {
+    "translation": {
+      "launch": [
+        "<say-as interpret-as=\"interjection\">Fala mano!</say-as>, como posso te ajudar?"
+      ],
+      "help": [
+        "<say-as interpret-as=\"interjection\">Mano</say-as>. Eu sei tudo sobre nada!"
+      ],
+      "close": [
+        "Falou!",
+        "Até mais!",
+        "É nóis!"
+      ],
+      "error": [
+        "Deu umas merdas aí e não consegui processar o que tu pediu",
+        "Fodeu, deu um erro aqui",
+        "Foi mal, aconteceu um problema aqui e vou ter que falar com o desenvolvedor desse skill pra resolver"
+      ]
+    }
+  }
+}
