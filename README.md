@@ -1,5 +1,7 @@
 # Alexa 4:20
 
+A recreational Alexa skill
+
 ## Requirements
 
 `npm i -g ask-cli`
